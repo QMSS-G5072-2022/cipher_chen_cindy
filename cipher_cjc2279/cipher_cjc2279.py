@@ -1,7 +1,3 @@
-# read version from installed package
-from importlib.metadata import version
-__version__ = version("cipher_cjc2279")
-
 def cipher(text, shift, encrypt=True):
 
     """
