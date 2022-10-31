@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "cipher_cjc2279"
-version = "0.1.0"
+version = "0.1.2"
 description = "Cipher function to encrypt and decrypt strings"
 authors = ["Cindy Chen"]
 license = "MIT"
